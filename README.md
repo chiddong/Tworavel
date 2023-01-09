@@ -36,10 +36,10 @@
 ### ✨ 사용 기술
 | 기술분야 | 상세내용 |
 | ------ | ------ |
-| 파일 입출력 | BufferedReader, Writer, FileReader |
-| 컬렉션 | ArrayList<T>, HashMap<T> |
-| 기타 레퍼런스 타입 클래스 | 데이터 생성을 위한 Random, Math 클래스스 |
-| 오버로딩 | 생성자 오버로딩 |
+| Front-end | HTML5, CSS, JavaScript, JQuery |
+| Back-end | JAVA, JSP, Servlet, JSON, JDBC |
+| Server | Apache Tomcat |
+| DB | Oracle, SQL |
 
 &nbsp;
  &nbsp;     
