@@ -86,18 +86,28 @@ API의 다양한 활용성에 대해서도 많이 배울 수 있었고, 더 많�
 &nbsp;
 
  ### ✨주요 구현 화면
+ &nbsp;
+ &nbsp;
 [메인화면]
  ![main](https://user-images.githubusercontent.com/111338981/212252016-7809f3ec-99e0-4f70-963d-c1884d740668.png)
+&nbsp;
+&nbsp;
 &nbsp;
 [일정 만들기 지역 선택]
 ![여행일정 만들기 시작페이지](https://user-images.githubusercontent.com/111338981/212252358-dcb7ad81-6212-421b-a52b-aec134346296.png)
 &nbsp;
+&nbsp;
+&nbsp;
 [장소 추가]
 ![여행 일정 만들기 장소 추가 메뉴 + 목록 장소 선택시 마커 활성화](https://user-images.githubusercontent.com/111338981/212252127-c196e539-6c7b-4943-bc6c-b296b558ac22.png)
 &nbsp;
+&nbsp;
+&nbsp;
 [일정 추가]
 ![여행 일정 만들기 일정추가메뉴 (날짜 선택시, day 생성)](https://user-images.githubusercontent.com/111338981/212252266-a34690cf-b92a-4459-b5a6-910b40555fe7.png)
-&nbsp;/
+&nbsp;
+&nbsp;
+&nbsp;
 [일정 요약 페이지]
 ![여행 일정 작성 후 요약 페이지](https://user-images.githubusercontent.com/111338981/212252484-3f32600e-10e8-44c4-a9de-6fbdb15ba646.png)
 
