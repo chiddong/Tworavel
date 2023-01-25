@@ -114,7 +114,7 @@ AJAX 사용 시 데이터를 넘기고 받는 방식에 대해서 많이 헷갈�
 &nbsp;
 &nbsp;
 ###### _장소 추가_
-![여행 일정 만들기 장소 추가 메뉴 + 목록 장소 선택시 마커 활성화](https://user-images.githubusercontent.com/111338981/212252127-c196e539-6c7b-4943-bc6c-b296b558ac22.png)
+![image](https://user-images.githubusercontent.com/111338981/214492531-8a3fbf73-1962-4e9f-bd84-f58f7eec120b.png)
 
  - 사용자가 이전 화면에서 선택한 장소의 관공서를 기준으로 하여 지도를 출력해주었습니다.(카카오 API 사용)
  - 이때 사용자가 장소 추가 버튼을 클릭하여 해당 오른쪽 창을 활성화 시킬 수 있습니다.
@@ -127,7 +127,7 @@ AJAX 사용 시 데이터를 넘기고 받는 방식에 대해서 많이 헷갈�
 &nbsp;
 &nbsp;
 ###### _일정 추가_
-![여행 일정 만들기 일정추가메뉴 (날짜 선택시, day 생성)](https://user-images.githubusercontent.com/111338981/212252266-a34690cf-b92a-4459-b5a6-910b40555fe7.png)
+![image](https://user-images.githubusercontent.com/111338981/214492580-76d73110-376e-4d68-8cce-55dba6f33d2a.png)
 
  - 사용자가 여행을 떠나고자 하는 날짜와 인원수를 선택한 후에 일정만들기르 클릭하면, 동적으로 Day박스를 생성해줍니다.
  - 장소/숙박/교통을 추가하고자 하는 day를 선택한 후에 각각의 메뉴에서 원하는 곳을 선택 후 일정 추가를 누르면 자동으로 추가가 됩니다.
@@ -137,9 +137,16 @@ AJAX 사용 시 데이터를 넘기고 받는 방식에 대해서 많이 헷갈�
 &nbsp;
 &nbsp;
 &nbsp;
-###### _일정 요약 페이지_
-![여행 일정 작성 후 요약 페이지](https://user-images.githubusercontent.com/111338981/212252484-3f32600e-10e8-44c4-a9de-6fbdb15ba646.png)
+###### _일정 추가(길찾기)_
+![image](https://user-images.githubusercontent.com/111338981/214492613-c1b59eba-0424-4083-9f3c-486d13d5597a.png)
 
+ - 사용자가 daybox에 추가된 두 장소를 순서대로 클릭하고 길찾기 버튼을 누르면, 자동으로 출발지와 도착지가 설정되어 카카오맵으로 이동합니다.
+
+&nbsp;
+&nbsp;
+&nbsp;
+###### _일정 요약 페이지_
+![image](https://user-images.githubusercontent.com/111338981/214492758-8db20b88-8dbb-4c0b-9cf5-9fa508c47633.png)
  - 앞선 페이지에서 선택한 모든 것을 한 페이지에 출력해주는 화면입니다.
  - 페이지 출력과 동시에 Database에 해당하는 모든 값들이 저장될 수 있도록 하였습니다.
 
