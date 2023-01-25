@@ -73,7 +73,7 @@
  ### ✨주요 구현 화면
  &nbsp;
  &nbsp;
-###### ✅ _메인화면_
+#### ✅ _메인화면_
  ![main](https://user-images.githubusercontent.com/111338981/212252016-7809f3ec-99e0-4f70-963d-c1884d740668.png)
  
  - 사이트 접속 시에 제일 먼저 출력되는 화면입니다.
@@ -82,7 +82,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-###### ✅ _일정 만들기 지역 선택_
+#### ✅ _일정 만들기 지역 선택_
 ![여행일정 만들기 시작페이지](https://user-images.githubusercontent.com/111338981/212252358-dcb7ad81-6212-421b-a52b-aec134346296.png)
 
 &nbsp;
@@ -109,7 +109,7 @@
 &nbsp;
 &nbsp;
 &nbsp;    
-###### ✅ _장소 추가_
+#### ✅ _장소 추가_
 
 ![장소찾기_등록](https://user-images.githubusercontent.com/111338981/214493145-89786fbd-f7e5-4cb0-a105-6bfa63ffa4bb.png)
 
@@ -140,7 +140,7 @@
 &nbsp;
 &nbsp;
 &nbsp;    
-###### ✅ _일정 추가_
+#### ✅ _일정 추가_
 ![일정만들기메인](https://user-images.githubusercontent.com/111338981/214493182-5ba2fc75-c3b9-42f8-8aff-e5916cefcd9a.png)
 ![일정만들기](https://user-images.githubusercontent.com/111338981/214493173-fa7acd60-226d-42ff-81bc-4a482e27b45b.png)
 
@@ -170,7 +170,7 @@
 &nbsp;
 &nbsp;
 &nbsp;    
-###### ✅ _일정 추가(길찾기)_
+#### ✅ _일정 추가(길찾기)_
 ![길찾기](https://user-images.githubusercontent.com/111338981/214493204-9410e398-8868-4de0-9d2c-9cad837908fa.png)
 
 &nbsp;
@@ -198,7 +198,7 @@
 &nbsp;
 &nbsp;
 &nbsp;    
-###### ✅ _일정 요약 페이지_
+#### ✅ _일정 요약 페이지_
 ![일정요약페이지](https://user-images.githubusercontent.com/111338981/214493213-0df7ccb0-0964-4307-aa5d-4cd823009303.png)
 
 
@@ -235,7 +235,7 @@
 &nbsp;    
  ### ✨프로젝트를 통해
  
- #### ✅ 동적 데이터를 다루는 방법을 많이 배운 프로젝트
+ ### ✅ 동적 데이터를 다루는 방법을 많이 배운 프로젝트
  
 AJAX 사용 시 데이터를 넘기고 받는 방식에 대해서 많이 헷갈렸지만,
 프로젝트 막바지에는 AJAX 를 잘 사용할 수 있게 되었고, 적용을 어려워하는 팀원들에게 AJAX  사용법을 자세히 설명할 수 있게 되었습니다.
